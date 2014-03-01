@@ -1,5 +1,4 @@
 <?php 
-	Hola a todos en casa!
-
-	Me voy!
+	echo("Hola a todos en casa!");
+	echo ("Me voy!");
 ?>
