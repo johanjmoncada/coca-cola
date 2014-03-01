@@ -1,3 +1,5 @@
 <?php 
-	phpinfo();
+	Hola a todos en casa!
+
+	Me voy!
 ?>
