@@ -1,0 +1,58 @@
+body {
+	background: white;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+}
+
+table.bodylinewidth {
+	
+}
+table.bodylinewidth tbody tr td.bodyline {
+	background-color: #FFF;
+	border: 1px #FFF solid;
+}
+
+table.bodylinewidth tbody tr td.bodyline table tbody tr td a{
+}
+
+/* Esta es la tabla principal */
+table.bodylinewidth tbody tr td.bodyline div#page-body div#emptyidcc table.three-col tbody tr td table.forumline tbody tr td.row1 {
+	background-color: #fafcfe;
+}
+
+table.bodylinewidth tbody tr td.bodyline div#page-body div#emptyidcc table.three-col tbody tr td table.forumline tbody tr td.row2 {
+	background-color: #ecf2f7;
+}
+
+table.bodylinewidth tbody tr td.bodyline div#page-body div#emptyidcc table.three-col tbody tr td table.forumline tbody tr td.row3 {
+	background-color: #e4ebf2;
+}
+
+td.cat, td.catBottom, td.catHead, td.catLeft, td.catRight, td.catSides, td.rowpic{
+	  background-image: none;
+    background-color: #1C3C57;
+    text-align: center;
+}
+
+td.cat h2 span a {
+	color: #FFF;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.postbody {
+	color: #000;
+}
+
+span.postdetails, span.gensmall, span.genmed{
+	color: #989898;
+}
+
+a.forumlink:visited {
+	color: #105289;
+}
+
+a.forumlink:link {
+	color: #557fa1;
+}
