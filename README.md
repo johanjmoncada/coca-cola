@@ -1,3 +1,3 @@
-cocacola
+coca-cola
 ========
-Repo para subir archivos varios
+Repository created for the purpose of save file which hasn't a project
